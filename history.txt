@@ -1,0 +1,150 @@
+    1  ls
+    2  cd..
+    3  cd c
+    4  cd C
+    5  cd C/
+    6  ls
+    7  cd D
+    8  cd D:
+    9  mkdir github
+   10  ls
+   11  cd github
+   12  pwd
+   13  touch hello.c
+   14  ls
+   15  git init
+   16  ls
+   17  git status
+   18  git add hello.c
+   19  git status
+   20  git remote add origin https://github.com/harshulmalhotra/newrepo1.git
+   21  git commit -m "commiting for first time"
+   22  git push
+   23  git push -u origin master
+   24  harshulmalhotra
+   25  git commit -m "commiting for first time"
+   26  :wq
+   27  jb
+   28  ls
+   29  lsgit remote add origin https://github.com/harshulmalhotra/newrepo1.git
+   30  git remote add origin https://github.com/harshulmalhotra/newrepo1.git
+   31  jkj
+   32  git add hello.cgit commit -m "first time"
+   33  git push -u origin master
+   34  cd D:
+   35  cd D:
+   36  cd github
+   37  pwd
+   38  touch hi.txt
+   39  touch src
+   40  git init
+   41  git status
+   42  git add hello.c
+   43  git status
+   44  git add hi.txt src
+   45  git status
+   46  cd src
+   47  mkdir src
+   48  rm src
+   49  mkdir src
+   50  cd src
+   51  git add 1.jpeg
+   52  git add 1.jpg
+   53  git add 1.txt
+   54  cd src
+   55  ls
+   56  add 1.txt
+   57  vi 1.txt
+   58  vi 1.jpg
+   59  git status
+   60  ls
+   61  cd..
+   62  cd ..
+   63  ls
+   64  git status
+   65  git remote add origin https://github.com/harshulmalhotra.git
+   66  git remote add origin1 https://github.com/harshulmalhotra.git
+   67  git push -u origin1 master
+   68  git remote add origin1 https://github.com/harshulmalhotra.git
+   69  git push -u origin1 master
+   70  git remote add origin1 https://github.com/harshulmalhotra/newrepo2.git
+   71  git remote add origin2 https://github.com/harshulmalhotra/newrepo2.git
+   72  git push -u origin2 master
+   73  git push -u origin2 master
+   74  git push -u origin2 master
+   75  git remote add origin2 https://github.com/harshulmalhotra/newrepo1.git
+   76  git remote add origin3 https://github.com/harshulmalhotra/newrepo1.git
+   77  git push -u origin3 master
+   78  git status
+   79  git remote add origin4 https://github.com/harshulmalhotra/newrepo2.git
+   80  git push -u origin4 master
+   81  git remote add origin4 https://github.com/harshulmalhotra/newrepo2.git
+   82  git remote add origin5 https://github.com/harshulmalhotra/newrepo2.git
+   83  git push -u origin5 master
+   84  git help
+   85  git remote rm
+   86  git remote rm <newrepo2>
+   87  git remote rm newrepo
+   88  git remote rm origin5
+   89  git remote
+   90  git remote rm origin
+   91  git remote rm origin1
+   92  git remote rm origin2
+   93  git remote rm origin4
+   94  git remote
+   95  git add .
+   96  ls
+   97  git commit
+   98  ls
+   99  git commit -m "HWLLO"
+  100  git push
+  101  ls
+  102  cd src
+  103  ls
+  104  git status
+  105  git add hello1.cpp
+  106  git add hello1.c
+  107  ls
+  108  git push -u origin4 master
+  109  git remote
+  110  git push -u origin3 master
+  111  git status
+  112  git status
+  113  git add.
+  114  git add .
+  115  git status
+  116  git commit -m "updating changes"
+  117  gti status
+  118  git status
+  119  git add hello.c
+  120  ls
+  121  cd ..
+  122  ls
+  123  git add hello.c
+  124  git status
+  125  git push -u origin4
+  126  git remote
+  127  git push -u origin3
+  128  git status
+  129  git log
+  130  git status
+  131  git add .
+  132  git commit -m "updating changes"
+  133  git status
+  134  git push -u 
+  135  git log
+  136  cd
+  137  cd D:
+  138  cd github
+  139  ls
+  140  vi hello.c
+  141  cat hello.c
+  142  git status
+  143  git add hello.c
+  144  git status
+  145  git commit -m "commiting for making new hash"
+  146  git push -u origin master
+  147  git remote 
+  148  git push -u origin3 master
+  149  git pull hello.c
+  150  history > history.txt
